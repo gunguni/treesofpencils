@@ -1,0 +1,1 @@
+//Ques. Write a program in C to check whether a given matrix is an identity matrix.
