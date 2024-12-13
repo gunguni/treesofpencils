@@ -82,7 +82,7 @@ Some of the tools and languages that made this journey possible:
 
 ---
 
-## Author 👩‍💻
+## Author 
 
 - **Hanser** (aka your friendly neighborhood coder 🕸️)
 - [GitHub Profile](https://github.com/Hanser011Oink)
