@@ -12,7 +12,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
     
-    printf("Input the position where to delete: ");
+    printf("Position You Want To Delete: ");
     scanf("%d", &pos);
     
     for (int i = pos - 1; i < n - 1; i++) {
