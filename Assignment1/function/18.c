@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <stdbool.h>
-
+                                                                // " I want to mention that i took help of AI in this armstrong problem it was not that hard but confusing at first try " will improve over time.. 
 bool isArmstrong(int num) {
     int sum = 0, temp = num, digits = 0;
 
