@@ -44,7 +44,7 @@ Here’s how I’ve organized the madness:
 │   └── 
 └── 📁 Resources
     ├── references.pdf
-    └── helpful_links.txt**(will be adding soon)**
+    └── helpful_links.txt (will be adding soon)
 ```
 
 Each folder contains its respective assignment files, a brief README (if necessary), and possibly a mini existential crisis note. 🤔
@@ -55,10 +55,10 @@ Each folder contains its respective assignment files, a brief README (if necessa
 
 Some of the tools and languages that made this journey possible:
 
-- Python 🐍(coming soon)
-- HTML & CSS 🌐(coming soon)
-- JavaScript ⚡(coming soon)
-- Jupyter Notebooks 📒(coming soon)
+- Python 🐍(soon in December)
+- HTML & CSS 🌐(soon in Jan)
+- JavaScript ⚡(soon in Jan)
+- Jupyter Notebooks 📒(soon)
 - C 
 - Coffee ☕ (Lots of it, because deadlines wait for no one.)
 
@@ -97,4 +97,4 @@ This project is licensed under the MIT License. In other words, feel free to use
 
 ---
 
-> "Programming is like writing a book... except if you miss a single comma on page 126, the whole thing makes no sense." 😅
+> "Programming is like writing a book... except if you miss a single comma on line 126, the whole thing makes no sense." 😅
