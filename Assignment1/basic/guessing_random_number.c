@@ -5,7 +5,6 @@
 int main() {
     int rannum, Guess, baari = 0;
 
-
     srand(time(NULL));
     rannum = rand() % 100 + 1;
     printf("---------------------------------------------\n");
