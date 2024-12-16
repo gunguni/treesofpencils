@@ -68,7 +68,7 @@ Some of the tools and languages that made this journey possible:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/hanser011Oink/treesofpencils.git
+   git clone https://github.com/hanserq/treesofpencils.git
    ```
 
 2. Navigate to the assignment folder of your choice:
@@ -84,8 +84,8 @@ Some of the tools and languages that made this journey possible:
 
 ## Author 
 
-- **Hanser** (aka your friendly neighborhood coder 🕸️)
-- [GitHub Profile](https://github.com/Hanser011Oink)
+- **Hanser** (aka rakhib your friendly neighborhood coder 🕸️)
+- [GitHub Profile](https://github.com/Hanserq)
 
 Feel free to reach out with questions, suggestions, or memes. Memes are always welcome. 😄
 
